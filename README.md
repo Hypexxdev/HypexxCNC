@@ -24,7 +24,7 @@ A multi-method Layer 4 and Layer 7 stress-testing tool for educational and resea
 ### 1. Clone or Extract
 Extract the repository or clone it:
 ```sh
-git clone https://github.com/yourusername/HypexxCNC.git
+git clone https://github.com/Hypexxdev/HypexxCNC.git
 cd HypexxCNC
 ```
 
