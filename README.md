@@ -17,6 +17,13 @@ A multi-method Layer 4 and Layer 7 stress-testing tool for educational and resea
 - **slowloris**: Layer 7 Slowloris (Python)
 - **tcp-flood**: Layer 4 TCP SYN flood (Python)
 
+
+# Preview
+
+-# https://prnt.sc/eqHplC-YJhqz
+-# https://prnt.sc/UKZIsw8lXpUw
+
+
 ---
 
 ## Installation
